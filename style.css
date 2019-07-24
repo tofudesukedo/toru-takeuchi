@@ -1,0 +1,177 @@
+/* general */
+
+body{
+  font-family: 'Mandali', sans-serif;
+}
+
+h2{
+  font-size: 40px;
+  font-family: 'Source Code Pro', monospace !important;
+}
+
+h3{
+  letter-spacing:5px;
+  font-size:22px;
+  margin-bottom: 30px;
+}
+
+h4{
+  color:rgba(189, 176, 173, 0.5);
+}
+/* navbar */
+.navbar{
+  background-color: white;
+}
+.navbar h1{
+  font-size:25px;
+}
+.navbar a{
+  color: black;
+  margin-left:30px;
+  font-size:18px;
+}
+
+.navbar a:hover{
+  border-bottom:solid 1px black;
+}
+
+/* navbar toggle */
+.navbar-toggler{
+  border-color: white;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0,1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+
+
+
+/* about */
+#about{
+  background: url('./image/toruboy.jpg') 30% 50% repeat;
+  background-size: cover;
+  color: #fff;
+  margin-top:90px;
+  padding-bottom:20%;
+  margin-bottom:50px;
+}
+
+#about p{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  font-size:23px;
+}
+
+/* service */
+#service .box{
+  opacity:0.3;
+}
+#service .box:hover{
+  opacity:1.0;
+}
+
+#service h2{
+  padding-top:40px
+}
+
+#service h3{
+  padding-top:40px
+}
+
+#service p{
+  margin-top:30px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+#service i{
+margin-top:30px;
+margin-bottom: 30px;
+color:rgba(136, 136, 136, 0.8);
+}
+
+.intro p{
+  font-size:15px;
+}
+
+/* footer */
+footer nav li{
+  float:left;
+  margin:30px 30px 30px 30px ;
+  font-size:20px
+}
+
+footer nav li a{
+  color: black;
+}
+
+footer nav li a:hover{
+  color: black;
+  border-bottom:solid 1px black !important;
+  text-decoration:none;
+}
+
+/* works */
+
+.image-data{
+background: url('./image/move.jpg') 30% 50% repeat;
+border:1px solid grey;
+background-size: cover;
+padding-bottom:55%;
+margin-bottom:50px;
+margin-top:200px;
+transition: .8s;
+}
+
+.works p{
+margin-bottom: 30px;
+font-family: 'M PLUS Rounded 1c', sans-serif;
+font-size:15px;
+line-height:25px;
+transition: .8s;
+}
+
+works a{
+  transition: .8s:
+}
+/* page navigation */
+.wp-pagenavi{
+  letter-spacing: 7px;
+  color:black !important;
+  margin-top:00px;
+  margin-bottom:50px;
+}
+
+.wp-pagenavi a{
+color:black !important;
+}
+
+.scale img {
+    -moz-transition: -moz-transform 0.5s linear;
+    -webkit-transition: -webkit-transform 0.5s linear;
+    -o-transition: -o-transform 0.5s linear;
+    -ms-transition: -ms-transform 0.5s linear;
+    transition: transform 0.5s linear;
+}
+.scale img:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+.boxel {
+  margin-top:100px;
+  margin-bottom:50px;
+	width: 100%;
+  padding-bottom:55%;
+	background-position:center center;
+	background-size: cover;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.abouttoru img{
+  width:100%
+}
