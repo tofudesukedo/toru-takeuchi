@@ -8,21 +8,12 @@ mb_internal_encoding('UTF-8');
 
 // mb_send_mail($to, $subject, $message);
 
-$honbun = "";
-	$honbun .= "メールフォームよりお問い合わせがありました。\n\n";
-	$honbun .= "【お名前】\n";
-	$honbun .= $_POST["name"]."\n\n";
-	$honbun .= "【メールアドレス】\n";
-	$honbun .= $_POST["email"]."\n\n";
-	$honbun .= "【お問い合わせ内容】\n";
-	$honbun .= $_POST["message"]."\n\n";
-
 $to = "tofudesukedo@gmail.com";
-$subject = "ウェブサイト制作依頼";
-$message = "$honbun";
+$subject = '$_POST["name"]';
+$message = '$_POST["message"]';
 $headers = 'From: $_POST["email"]';
 
-mb_send_mail($to, $subject, $message, $headers);
+mail($to, $subject, $message, $headers);
 ?>
 <div class="container">
 <p class="message" style="margin-top:90px;">
