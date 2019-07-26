@@ -1,19 +1,13 @@
 $(function(){
 
   window.sr = ScrollReveal();
-  sr.reveal('.navbar-brand',{
+  sr.reveal('.navbar',{
     duration: 2000,
   });
 
   sr.reveal(' #about',{
-    duration: 3000,
-  });
-
-  sr.reveal('.hello',{
-    distance: "90px",
-    origin: 'right',
     duration: 2000,
-    delay:300
+      origin: 'bottom',
   });
 
   sr.reveal(' #service',{
@@ -22,34 +16,6 @@ $(function(){
     distance:"90px",
     viewFactor:0.2,
   });
-
-    sr.reveal('.toru',{
-      distance: "90px",
-      origin: 'right',
-      duration: 2000,
-      delay:600,
-    });
-
-    sr.reveal('.tomo',{
-      distance: "90px",
-      origin: 'right',
-      duration: 2000,
-      delay:900,
-    });
-
-    sr.reveal('.hisako',{
-      distance: "90px",
-      origin: 'right',
-      duration: 2000,
-      delay:1200,
-    });
-
-    sr.reveal('.titi',{
-      distance: "90px",
-      origin: 'right',
-      duration: 2000,
-      delay:1500,
-    });
 
     sr.reveal('.tim',{
       distance: "90px",

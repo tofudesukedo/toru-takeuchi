@@ -32,20 +32,20 @@
       <div class="justify-content-end collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav">
           <li class="nav-item slide-in hello">
-            <a href="about.php" class="nav-link hello">about</a>
-          
+            <a href="about.php" class="nav-link">about</a>
+
           </li>
           <li class="nav-item slide-in toru">
-            <a href="work.php" class="nav-link toru">works</a>
+            <a href="work.php" class="nav-link">works</a>
           </li>
           <li class="nav-item slide-in 3">
-            <a href="price.php" class="nav-link tomo">price</a>
+            <a href="price.php" class="nav-link">price</a>
           </li>
           <li class="nav-item slide-in 4">
-            <a href="contact.php" class="nav-link hisako">contact</a>
+            <a href="contact.php" class="nav-link">contact</a>
           </li>
           <li class="nav-item slide-in 5">
-            <a href="indexeng.php" class="nav-link titi"><i class="fas fa-globe-asia"></i> English</a>
+            <a href="index-english.php" class="nav-link"><i class="fas fa-globe-asia"></i> English</a>
           </li>
         </ul>
       </div>

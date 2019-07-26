@@ -1,5 +1,5 @@
 <?php
-include 'headereng.php';
+include 'header-english.php';
 ?>
 
 <section class="contact" id="contact" class="py-5" style="margin-top:50px; margin-bottom: 60px ">
@@ -47,5 +47,5 @@ include 'headereng.php';
 </section>
 
 <?php
-include 'footereng.php';
+include 'footer-english.php';
 ?>

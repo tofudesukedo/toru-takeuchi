@@ -1,11 +1,11 @@
 <footer>
    <nav>
      <ul class="list-unstyled list-inline">
-       <li><a href="abouteng.php">about</a></li>
-       <li><a href="workeng.php">works</a></li>
-       <li><a href="priceeng.php">price</a></li>
-       <li><a href="contacteng.php">contact</a></li>
-       <li><a href="index.php"><i class="fas fa-globe-asia"></i> Japanese</a></li>
+       <li><a href="about-english.php">about</a></li>
+       <li><a href="work-english.php">works</a></li>
+       <li><a href="price-english.php">price</a></li>
+       <li><a href="contact-english.php">contact</a></li>
+       <li><a href="index-english.php"><i class="fas fa-globe-asia"></i> Japanese</a></li>
        <li style="float:right; font-size:15px">&copy; 2019 Toru Takeuchi</li>
      </ul>
    </nav>

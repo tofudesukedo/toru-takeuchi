@@ -1,5 +1,5 @@
 <?php
-include 'headereng.php';
+include 'header-english.php';
 ?>
 <?php
 
@@ -22,7 +22,7 @@ $subject = "ウェブサイト制作依頼";
 $message = "$honbun";
 $headers = 'From: $_POST["email"]';
 
-mail($to, $subject, $message, $headers);
+mb_send_mail($to, $subject, $message, $headers);
 ?>
 <div class="container">
 <p class="message" style="margin-top:90px;">

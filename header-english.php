@@ -23,23 +23,23 @@
 
   <nav class="navbar navbar-expand-md pt-3" style="margin-top:30px; margin-bottom:-30px;" id="main-nav">
     <div class="container">
-      <a class="navbar-brand" href="indexeng.php" style="font-size:30px; ">Toru Takeuchi</a>
+      <a class="navbar-brand" href="index-english.php" style="font-size:30px; ">Toru Takeuchi</a>
       <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
          <span class="navbar-toggler-icon"></span>
       </button>
       <div class="justify-content-end collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a href="abouteng.php" class="nav-link">about</a>
+            <a href="about-english.php" class="nav-link">about</a>
           </li>
           <li class="nav-item">
-            <a href="workeng.php" class="nav-link">works</a>
+            <a href="work-english.php" class="nav-link">works</a>
           </li>
           <li class="nav-item">
-            <a href="priceeng.php" class="nav-link">price</a>
+            <a href="price-english.php" class="nav-link">price</a>
           </li>
           <li class="nav-item">
-            <a href="contacteng.php" class="nav-link">contact</a>
+            <a href="contact-english.php" class="nav-link">contact</a>
           </li>
           <li class="nav-item">
             <a href="index.php" class="nav-link"><i class="fas fa-globe-asia"></i> Japanese</a>

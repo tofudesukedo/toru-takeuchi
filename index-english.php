@@ -1,5 +1,5 @@
 <?php
-include 'headereng.php';
+include 'header-english.php';
 ?>
 
 <header id="about">
@@ -19,12 +19,6 @@ include 'headereng.php';
     <h2 class="text-center mb-5">Services</h2>
     <div class="row d-flex justify-content-around">
       <div class="col-md-3 mb-4 text-center">
-        <h3 class="slide-left">Direction</h3>
-        <h4 class="mb-4">ディレクション</h4>
-        <i class="fas fa-comments fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will provide the most effective plan by listening what you would like to get most out of website and create the base of the high cost performance website in this phase.</p>
-      </div>
-      <div class="col-md-3 mb-4 text-center">
         <h3>Design</h3>
         <h4 class="mb-4">デザイン</h4>
         <i class="fas fa-paint-brush fa-3x mb-4"></i>
@@ -34,12 +28,18 @@ include 'headereng.php';
         <h3>Coding</h3>
         <h4 class="mb-4">コーディング</h4>
         <i class="fas fa-laptop fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will code website using HTML,CSS,JavaScript,PHP as well as WordPress. I always try to think the concept of the service while making website and check and pay attention to every details of the work.</p>
+        <p style="letter-spacing: 3px;">I will code website using HTML,CSS,JavaScript,PHP as well as WordPress. I always try to think the concept of the service while making website and check and pay attention to every detail of the work.</p>
+      </div>
+      <div class="col-md-3 mb-4 text-center">
+        <h3 class="slide-left">Translation</h3>
+        <h4 class="mb-4">翻訳</h4>
+        <i class="fas fa-comments fa-3x mb-4"></i>
+        <p style="letter-spacing: 3px;">I will translate your product from English to Japanese or Japanese to English. By using my background as worked in many international environment for 5 years, I will translate into very natural and trustworsy words.</p>
       </div>
     </div>
   </div>
 </section>
 
 <?php
-include 'footereng.php';
+include 'footer-english.php';
 ?>

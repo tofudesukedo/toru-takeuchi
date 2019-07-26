@@ -1,5 +1,5 @@
 <?php
-include 'headereng.php';
+include 'header-english.php';
 ?>
 
 <section class="works" style="margin-top:100px;">
@@ -30,5 +30,5 @@ include 'headereng.php';
 </html>
 
 <?php
-include 'footereng.php';
+include 'footer-english.php';
 ?>
