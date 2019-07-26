@@ -1,5 +1,8 @@
 <?php
 include 'header-english.php';
+$name = $_POST["name"];
+$email = $_POST["email"];
+$message = $_POST["message"];
 ?>
 
 <section style="margin-top:100px;">
@@ -24,6 +27,9 @@ include 'header-english.php';
                 </tr>
             </tbody>
           </table>
+          <input type="hidden" name="name" value="<?= $name ?>">
+          <input type="hidden" name="message" value="<?= $message ?>">
+          <input type="hidden" name="email" value="<?= $email ?>">
           <input type="submit" value="送信" class="btn btn-light btn-block btn-lg">
         </form>
       </div>

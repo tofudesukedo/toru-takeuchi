@@ -1,6 +1,4 @@
-<?php include 'header.php' ; ?>
-
-<?php
+<?php include 'header.php';
 
 mb_language('Japanese');
 mb_internal_encoding('UTF-8');
@@ -10,7 +8,7 @@ $subject = $_POST["name"];
 $message = $_POST["message"];
 $headers = $_POST["email"];
 
-mail($to, $subject, $message, $headers);
+$result = mail($to, $subject, $message, $headers);
 ?>
 
 <div class="container">

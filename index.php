@@ -6,9 +6,9 @@ include 'header.php';
   <div class="container">
     <div class="row">
       <div class="col-md-6" style="margin-top:150px;">
-        <p>作るものを通して人と人が繋がり</p>
-        <p>新しい価値が生まれ、気持や想いが届く。</p>
-        <p>そんなお手伝いができればと考えています。</p>
+        <p>一人一人の思いを</p>
+        <p>ウェブサイトの力でより多くの人に届ける。</p>
+        <p>そのお手伝いができればと考えています。</p>
       </div>
     </div>
   </div>
@@ -23,7 +23,7 @@ include 'header.php';
           <h3>デザイン</h3>
           <h4 class="mb-4">Design</h4>
           <i class="fas fa-paint-brush fa-3x mb-4"></i>
-          <p style="letter-spacing: 3px;">ヒアリングに基づいたプランに沿って、デザインを作成いたします。人の使うものであることを常に意識して、経営者様と十分に話し合い、納得していただけるようなデザインを提案をさせていただきます。</p>
+          <p style="letter-spacing: 3px;">ヒアリングに基づいたプランに沿って、デザインを作成いたします。人の使うものであることを常に意識して、依頼者様と十分に話し合い、納得していただけるようなデザインを提案をさせていただきます。</p>
         </div>
 
         <div class="col-md-3 mb-4 text-center">

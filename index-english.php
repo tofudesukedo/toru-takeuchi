@@ -34,7 +34,7 @@ include 'header-english.php';
         <h3 class="slide-left">Translation</h3>
         <h4 class="mb-4">翻訳</h4>
         <i class="fas fa-comments fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will translate your product from English to Japanese or Japanese to English. By using my background as worked in many international environment for 5 years, I will translate into very natural and trustworsy words.</p>
+        <p style="letter-spacing: 3px;">I will translate your product from English to Japanese or Japanese to English. By using my background of working in many international environments for 5 years, I will translate your product into natural and trustworsy sentences.</p>
       </div>
     </div>
   </div>

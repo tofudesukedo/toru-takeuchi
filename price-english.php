@@ -20,8 +20,8 @@ include 'header-english.php';
                   <td>¥20,000</td>
               </tr>
               <tr>
-                  <td>html/css coding</td>
-                  <td>¥5,000</td>
+                  <td>HTML/CSS coding</td>
+                  <td>¥1,0000</td>
               </tr>
               <tr>
                   <td>WordPress site</td>
@@ -32,7 +32,7 @@ include 'header-english.php';
                   <td>¥50,000</td>
               </tr>
               <tr>
-              <td>LOGO design</td>
+              <td>LOGO/Name card design</td>
               <td>¥10,000</td>
               </tr>
           </tbody>
