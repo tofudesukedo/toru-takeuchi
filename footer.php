@@ -5,7 +5,7 @@
        <li><a href="work.php">works</a></li>
        <li><a href="price.php">price</a></li>
        <li><a href="contact.php">contact</a></li>
-       <li><a href="indexeng.php"><i class="fas fa-globe-asia"></i> english</a></li>
+       <li><a href="index-english.php"><i class="fas fa-globe-asia"></i> english</a></li>
        <li style="float:right; font-size:15px">&copy; 2019 Toru Takeuchi</li>
      </ul>
    </nav>
