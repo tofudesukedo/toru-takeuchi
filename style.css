@@ -175,3 +175,13 @@ color:black !important;
 .abouttoru img{
   width:100%
 }
+@media screen and (max-width:512px) {
+  #about{
+ background: url('./image/toruboy.jpg') 50% 50% repeat;
+ background-size: cover;
+ color: #fff;
+ margin-top:90px;
+ padding-bottom:20%;
+ margin-bottom:50px;
+ }
+}

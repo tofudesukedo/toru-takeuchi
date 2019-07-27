@@ -7,8 +7,8 @@ include 'header-english.php';
     <div class="row">
       <div class="col-md-6" style="margin-top:150px;">
         <p>I want to help</p>
-        <p>creating value, shareing feelings and thoughts</p>
-        <p>and connecting people through the art of website.</p>
+        <p>creating value, sharing feelings and thoughts</p>
+        <p>and connecting people through the art of website making.</p>
       </div>
     </div>
 　  </div>
@@ -22,19 +22,19 @@ include 'header-english.php';
         <h3>Design</h3>
         <h4 class="mb-4">デザイン</h4>
         <i class="fas fa-paint-brush fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will create sensational design based on the plan. Discussing design with clients will help the design and layout to fit well to the concept of the service. </p>
+        <p style="letter-spacing: 3px;">Creating sensational design based on the plan. Discussing design with clients to fit well to the concept of the service. </p>
       </div>
       <div class="col-md-3 mb-4 text-center">
         <h3>Coding</h3>
         <h4 class="mb-4">コーディング</h4>
         <i class="fas fa-laptop fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will code website using HTML,CSS,JavaScript,PHP as well as WordPress. I always try to think the concept of the service while making website and check and pay attention to every detail of the work.</p>
+        <p style="letter-spacing: 3px;">Coding website using HTML,CSS,JavaScript,PHP as well as WordPress. Paying close attention to every detail, bringing out the potential of the concept.</p>
       </div>
       <div class="col-md-3 mb-4 text-center">
         <h3 class="slide-left">Translation</h3>
         <h4 class="mb-4">翻訳</h4>
         <i class="fas fa-comments fa-3x mb-4"></i>
-        <p style="letter-spacing: 3px;">I will translate your product from English to Japanese or Japanese to English. By using my background of working in many international environments for 5 years, I will translate your product into natural and trustworsy sentences.</p>
+        <p style="letter-spacing: 3px;">Translation services (English <-> Japanese). By using my background of working in many international environments for 5 years, I will translate your product into natural and trustworthy sentences.</p>
       </div>
     </div>
   </div>
